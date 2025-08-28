@@ -1,3 +1,2 @@
-# hworld.py
-
-print("Hello, World!")
+print("Welcomes you")
+print("Hello Github")
